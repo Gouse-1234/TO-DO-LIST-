@@ -1,0 +1,79 @@
+
+body{
+    background-color: aqua;
+    background-image: url("https://media2.giphy.com/media/LDmFx0LoTiBMI/200.gif?cid=95b2794430a5xkrf7rjb97r8keizvuslvju9b4x4onl5c55y&ep=v1_gifs_gifId&rid=200.gif&ct=g");
+    
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .main-container{
+    height: 80vh;
+    width: 60vh;
+    padding: 30px;
+ }
+ .heading-1{
+    text-align: center;
+    font-family: monospace;
+    font-size: 30px;
+    
+ 
+ }
+ .heading-2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 22px;
+    font-size: 32px;
+    color:brown;
+ 
+ }
+ .heading-3{
+    margin-top: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 35px;
+ }
+ .input-1{
+    width: 70%;
+    height: 44px;
+    border-radius: 9px;
+    border-width: 0px;
+    font-family: monospace;
+    background-color: beige;
+ }
+ .btn-1{
+    width: 50px;
+    height: 15px;
+    margin-left: 15px;
+    padding: 15px;
+    background-color: lightcoral;
+    border-radius: 10px;
+    color:black;
+    font-family: sans-serif;
+    font-weight: lighter;
+     
+ }
+ li{
+    background-color:yellow;
+    list-style-type: none;
+    display: flex;
+    border-radius: 10px;
+    margin-top: 10px;
+    padding: 10px;
+ }
+ label{
+    width: 100px;
+ }
+ .btn-2{
+    margin-left: auto;
+    background-color: red;
+    border-width: 0px;
+    color: white;
+    font-size: 20px;
+    border-radius: 4px;
+ }
+ label{
+    height: 20px;
+ }
+ .strike-1{
+    text-decoration: line-through;
+ }
